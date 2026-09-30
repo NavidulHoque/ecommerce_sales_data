@@ -1,0 +1,288 @@
+﻿Customer ID,Customer Segment,Division,Sum of F Score,Sum of Frequency,Sum of M Score,Sum of Monetary,Sum of R Score,Sum of Recency
+CUST0001,At Risk,Chattogram,2,5,5,2247210,2,168
+CUST0002,Loyal Customers,Rajshahi,4,7,1,387450,4,43
+CUST0003,Lost/Churned,Dhaka,2,5,2,798270,2,157
+CUST0004,At Risk,Chattogram,5,9,3,857310,2,138
+CUST0005,Lost/Churned,Rangpur,2,5,1,339480,2,106
+CUST0006,At Risk,Dhaka,4,7,4,1389900,1,263
+CUST0007,Champions,Khulna,5,11,5,1678950,5,12
+CUST0008,At Risk,Barishal,4,8,1,457560,2,140
+CUST0009,New Customers,Dhaka,2,5,2,506760,5,12
+CUST0010,Champions,Rajshahi,5,10,4,1439100,4,34
+CUST0011,Loyal Customers,Dhaka,4,8,3,931110,4,33
+CUST0012,At Risk,Chattogram,4,7,2,687570,2,103
+CUST0013,Potential Loyal,Sylhet,3,6,2,621150,3,58
+CUST0014,Lost/Churned,Dhaka,2,5,1,116850,1,203
+CUST0015,Potential Loyal,Khulna,1,4,3,1011060,3,97
+CUST0016,Champions,Mymensingh,4,8,4,1359150,5,21
+CUST0017,Potential Loyal,Dhaka,3,6,5,1654350,5,20
+CUST0018,Loyal Customers,Rajshahi,4,7,2,815490,3,54
+CUST0019,Loyal Customers,Dhaka,4,8,2,713400,3,64
+CUST0020,Potential Loyal,Chattogram,3,6,2,634680,4,27
+CUST0021,Lost/Churned,Sylhet,1,4,1,111930,2,137
+CUST0022,Loyal Customers,Dhaka,5,11,3,1145130,5,13
+CUST0023,Champions,Chattogram,4,8,4,1488300,4,31
+CUST0024,New Customers,Rangpur,2,5,2,504300,4,40
+CUST0025,At Risk,Dhaka,3,6,1,375150,1,229
+CUST0026,Loyal Customers,Khulna,4,8,3,1075020,5,2
+CUST0027,Loyal Customers,Barishal,5,9,4,1484610,3,65
+CUST0028,Champions,Chattogram,5,11,5,1924950,5,7
+CUST0029,Champions,Rajshahi,4,8,4,1398510,5,14
+CUST0030,Low Engagement,Dhaka,1,4,2,578100,3,48
+CUST0031,Loyal Customers,Chattogram,5,14,5,3036870,3,81
+CUST0032,Loyal Customers,Rangpur,5,9,4,1222620,3,64
+CUST0034,At Risk,Khulna,1,4,5,1869600,1,279
+CUST0035,Low Engagement,Barishal,1,3,1,45510,3,48
+CUST0036,Loyal Customers,Dhaka,4,7,3,861000,5,16
+CUST0037,Champions,Rajshahi,4,8,5,1635900,4,29
+CUST0038,Loyal Customers,Dhaka,5,11,3,956940,5,1
+CUST0039,At Risk,Chattogram,3,6,2,750300,1,242
+CUST0040,Champions,Sylhet,4,7,4,1431720,5,1
+CUST0041,New Customers,Dhaka,2,5,5,2201700,4,25
+CUST0042,Loyal Customers,Chattogram,5,9,4,1325940,3,55
+CUST0043,Loyal Customers,Mymensingh,4,7,3,1124220,3,58
+CUST0044,Loyal Customers,Dhaka,5,14,4,1519050,3,61
+CUST0045,Potential Loyal,Rajshahi,3,6,2,757680,5,12
+CUST0046,At Risk,Dhaka,4,7,4,1421880,2,101
+CUST0047,Champions,Chattogram,5,10,5,2301330,4,39
+CUST0048,At Risk,Sylhet,4,7,1,369000,2,148
+CUST0049,Lost/Churned,Dhaka,1,3,1,356700,1,353
+CUST0050,Champions,Chattogram,4,8,4,1207860,5,1
+CUST0051,Potential Loyal,Rangpur,3,6,3,959400,3,79
+CUST0052,Loyal Customers,Dhaka,5,13,2,797040,5,14
+CUST0053,At Risk,Khulna,4,8,4,1259520,1,245
+CUST0054,Loyal Customers,Barishal,4,7,2,646980,3,69
+CUST0055,Loyal Customers,Chattogram,5,9,2,541200,4,41
+CUST0056,New Customers,Rajshahi,1,4,2,565800,4,33
+CUST0057,New Customers,Dhaka,1,3,1,227550,4,44
+CUST0058,At Risk,Chattogram,4,7,3,1119300,1,360
+CUST0059,Loyal Customers,Rangpur,4,7,3,899130,4,44
+CUST0060,At Risk,Dhaka,4,7,5,1635900,1,186
+CUST0061,Loyal Customers,Khulna,4,7,1,301350,3,78
+CUST0062,Champions,Mymensingh,4,7,4,1225080,4,34
+CUST0063,At Risk,Dhaka,4,7,4,1265670,1,255
+CUST0064,Champions,Rajshahi,5,13,5,2765040,5,11
+CUST0065,At Risk,Dhaka,3,6,2,817950,1,352
+CUST0066,Lost/Churned,Chattogram,2,5,2,552270,1,442
+CUST0067,New Customers,Sylhet,2,5,4,1167270,5,9
+CUST0068,At Risk,Dhaka,2,5,3,1079940,2,117
+CUST0069,Potential Loyal,Chattogram,3,6,5,1688790,3,80
+CUST0070,Loyal Customers,Mymensingh,4,8,5,1944630,3,58
+CUST0071,At Risk,Dhaka,5,9,2,814260,2,143
+CUST0072,Lost/Churned,Khulna,1,3,1,184500,1,304
+CUST0073,At Risk,Dhaka,3,6,1,467400,1,228
+CUST0074,Lost/Churned,Chattogram,1,2,1,172200,2,108
+CUST0075,Lost/Churned,Sylhet,1,4,2,633450,2,112
+CUST0076,Loyal Customers,Dhaka,4,8,1,300120,5,5
+CUST0077,Loyal Customers,Chattogram,4,8,2,611310,4,25
+CUST0078,Champions,Rangpur,4,7,4,1242300,5,3
+CUST0079,At Risk,Dhaka,2,5,3,1020900,2,131
+CUST0080,At Risk,Khulna,5,10,5,1943400,2,117
+CUST0081,Loyal Customers,Barishal,5,9,5,2392350,3,49
+CUST0082,Lost/Churned,Dhaka,2,5,2,683880,2,158
+CUST0083,At Risk,Rajshahi,4,7,1,432960,2,161
+CUST0085,Lost/Churned,Chattogram,2,5,2,793350,1,177
+CUST0086,Loyal Customers,Sylhet,4,7,3,1143900,3,59
+CUST0087,Loyal Customers,Dhaka,4,7,2,757680,5,22
+CUST0088,At Risk,Khulna,4,8,5,2669100,2,118
+CUST0089,Lost/Churned,Mymensingh,1,3,1,158670,1,354
+CUST0090,At Risk,Dhaka,2,5,4,1414500,2,122
+CUST0091,Champions,Rajshahi,5,13,5,2200470,5,1
+CUST0092,Potential Loyal,Dhaka,3,6,3,1001220,5,18
+CUST0093,Lost/Churned,Chattogram,2,5,1,354240,1,175
+CUST0094,At Risk,Sylhet,4,8,2,549810,2,128
+CUST0095,Champions,Dhaka,5,14,5,3940920,4,46
+CUST0096,Potential Loyal,Chattogram,3,6,4,1167270,4,47
+CUST0097,Lost/Churned,Rangpur,1,4,2,651900,1,205
+CUST0098,New Customers,Dhaka,2,5,3,1028280,5,10
+CUST0099,Champions,Khulna,4,7,4,1221390,4,38
+CUST0100,At Risk,Dhaka,4,7,3,1153740,2,129
+CUST0101,Potential Loyal,Chattogram,3,6,3,1107000,4,27
+CUST0102,Lost/Churned,Rajshahi,1,1,1,110700,1,438
+CUST0103,Potential Loyal,Dhaka,3,6,1,361620,4,28
+CUST0104,Loyal Customers,Chattogram,4,7,1,190650,4,23
+CUST0105,Loyal Customers,Rangpur,4,8,2,688800,3,98
+CUST0106,At Risk,Dhaka,5,9,5,1686330,2,159
+CUST0107,Potential Loyal,Khulna,2,5,4,1322250,3,76
+CUST0109,Champions,Dhaka,5,12,5,1820400,5,9
+CUST0111,Lost/Churned,Dhaka,1,1,1,110700,1,596
+CUST0112,At Risk,Chattogram,4,7,5,1771200,2,159
+CUST0113,Potential Loyal,Sylhet,3,6,3,1008600,4,27
+CUST0114,At Risk,Dhaka,4,7,1,477240,1,219
+CUST0115,Lost/Churned,Khulna,1,3,1,195570,1,529
+CUST0116,Loyal Customers,Mymensingh,5,9,2,771210,5,16
+CUST0117,At Risk,Dhaka,1,3,3,977850,1,280
+CUST0118,Lost/Churned,Rajshahi,2,5,2,719550,2,105
+CUST0120,At Risk,Chattogram,4,7,4,1210320,2,121
+CUST0121,Lost/Churned,Sylhet,1,3,1,166050,1,242
+CUST0122,Champions,Dhaka,5,9,5,1810560,5,9
+CUST0123,At Risk,Chattogram,1,3,3,1020900,1,355
+CUST0124,Champions,Rangpur,5,10,4,1383750,5,9
+CUST0125,Champions,Dhaka,4,7,4,1537500,4,47
+CUST0126,Loyal Customers,Khulna,5,12,4,1382520,3,63
+CUST0127,Loyal Customers,Barishal,4,7,2,768750,4,37
+CUST0128,At Risk,Chattogram,5,11,4,1323480,2,128
+CUST0129,At Risk,Rajshahi,5,11,5,3057780,2,141
+CUST0130,Loyal Customers,Dhaka,5,11,2,838860,4,44
+CUST0131,Champions,Chattogram,5,13,5,3100830,5,19
+CUST0133,Champions,Dhaka,5,9,5,1937250,4,25
+CUST0134,Loyal Customers,Khulna,4,8,5,2273040,3,49
+CUST0135,Champions,Barishal,4,7,4,1519050,4,37
+CUST0136,Lost/Churned,Dhaka,2,5,1,246000,1,246
+CUST0137,Champions,Rajshahi,5,11,5,2250900,4,35
+CUST0138,Potential Loyal,Dhaka,3,6,5,1722000,3,97
+CUST0139,Champions,Chattogram,5,12,5,3954450,4,26
+CUST0140,Loyal Customers,Sylhet,4,8,1,300120,3,53
+CUST0141,New Customers,Dhaka,2,5,3,1024590,5,11
+CUST0142,Loyal Customers,Chattogram,5,10,2,725700,4,38
+CUST0143,Lost/Churned,Mymensingh,1,2,1,270600,1,246
+CUST0144,Champions,Dhaka,4,8,5,2163570,5,10
+CUST0145,Low Engagement,Rajshahi,2,5,1,381300,3,76
+CUST0146,New Customers,Dhaka,1,3,2,666660,5,17
+CUST0147,Potential Loyal,Chattogram,3,6,1,238620,5,15
+CUST0148,Loyal Customers,Sylhet,5,10,3,1041810,4,25
+CUST0149,At Risk,Dhaka,3,6,2,842550,2,121
+CUST0150,Loyal Customers,Chattogram,4,8,3,1103310,5,21
+CUST0152,At Risk,Dhaka,4,7,3,889290,2,101
+CUST0153,Lost/Churned,Khulna,2,5,2,511680,2,117
+CUST0154,At Risk,Barishal,3,6,1,292740,1,177
+CUST0155,Champions,Chattogram,4,7,4,1180800,4,44
+CUST0156,At Risk,Rajshahi,4,8,5,1881900,2,161
+CUST0157,Champions,Dhaka,4,7,5,1992600,4,32
+CUST0158,Champions,Chattogram,4,7,4,1332090,5,2
+CUST0159,At Risk,Rangpur,4,8,2,846240,2,144
+CUST0160,At Risk,Dhaka,4,7,5,1740450,1,353
+CUST0161,Loyal Customers,Khulna,5,10,3,854850,3,66
+CUST0162,At Risk,Mymensingh,3,6,5,1672800,1,177
+CUST0163,Loyal Customers,Dhaka,4,7,2,578100,3,94
+CUST0164,New Customers,Rajshahi,1,4,1,430500,5,16
+CUST0165,Champions,Dhaka,4,8,4,1446480,4,30
+CUST0166,Potential Loyal,Chattogram,3,6,2,709710,3,85
+CUST0167,Potential Loyal,Sylhet,3,6,2,559650,5,20
+CUST0168,Loyal Customers,Dhaka,5,10,2,787200,5,7
+CUST0169,Low Engagement,Chattogram,1,2,1,73800,3,75
+CUST0170,Low Engagement,Mymensingh,1,4,1,104550,3,69
+CUST0171,Lost/Churned,Dhaka,1,2,2,553500,1,339
+CUST0172,Loyal Customers,Khulna,4,7,1,339480,3,48
+CUST0173,Champions,Dhaka,5,12,5,2739210,5,15
+CUST0174,Loyal Customers,Chattogram,5,12,3,1030740,4,24
+CUST0176,Champions,Dhaka,4,7,5,1672800,4,44
+CUST0177,At Risk,Chattogram,4,7,2,800730,2,140
+CUST0178,At Risk,Rangpur,4,8,5,1746600,1,178
+CUST0179,Potential Loyal,Dhaka,2,5,3,947100,3,61
+CUST0180,Champions,Khulna,5,12,4,1448940,5,7
+CUST0181,Lost/Churned,Barishal,1,3,1,270600,2,112
+CUST0182,At Risk,Dhaka,4,7,3,1067640,1,239
+CUST0183,Potential Loyal,Rajshahi,3,6,3,1125450,3,53
+CUST0184,Lost/Churned,Dhaka,2,5,2,656820,2,101
+CUST0185,At Risk,Chattogram,3,6,4,1457550,1,260
+CUST0186,Champions,Sylhet,5,12,4,1474770,4,33
+CUST0187,Potential Loyal,Dhaka,1,3,3,953250,3,83
+CUST0188,At Risk,Khulna,4,8,4,1621140,2,113
+CUST0189,At Risk,Mymensingh,4,8,4,1301340,2,109
+CUST0190,Low Engagement,Dhaka,2,5,2,768750,3,79
+CUST0191,At Risk,Rajshahi,1,2,3,861000,1,247
+CUST0192,Potential Loyal,Dhaka,1,4,3,1073790,3,94
+CUST0193,New Customers,Chattogram,2,5,3,926190,4,23
+CUST0194,Loyal Customers,Sylhet,4,7,3,1046730,4,47
+CUST0195,Loyal Customers,Dhaka,4,8,1,455100,4,23
+CUST0196,At Risk,Chattogram,5,10,5,1637130,1,247
+CUST0197,Champions,Rangpur,4,8,5,2164800,4,39
+CUST0198,At Risk,Dhaka,3,6,5,1790880,2,161
+CUST0199,Loyal Customers,Khulna,4,8,3,1113150,3,67
+CUST0200,At Risk,Dhaka,4,8,5,2626050,1,181
+CUST0201,Loyal Customers,Chattogram,5,10,3,1118070,3,75
+CUST0202,Potential Loyal,Rajshahi,3,6,3,1081170,3,93
+CUST0203,Champions,Dhaka,5,10,5,2303790,5,2
+CUST0204,Champions,Chattogram,5,13,5,4280400,5,1
+CUST0205,Low Engagement,Rangpur,2,5,1,166050,3,57
+CUST0206,New Customers,Dhaka,2,5,3,1107000,5,17
+CUST0207,New Customers,Khulna,1,4,2,731850,5,21
+CUST0208,Loyal Customers,Barishal,5,9,2,654360,3,93
+CUST0209,Lost/Churned,Dhaka,1,4,1,485850,2,139
+CUST0210,Lost/Churned,Rajshahi,2,5,2,584250,2,112
+CUST0211,At Risk,Dhaka,5,9,4,1394820,2,138
+CUST0212,Potential Loyal,Chattogram,3,6,4,1311180,4,42
+CUST0213,Lost/Churned,Sylhet,1,3,1,277980,1,311
+CUST0214,Lost/Churned,Dhaka,1,1,1,73800,1,457
+CUST0215,New Customers,Khulna,1,3,1,226320,4,33
+CUST0216,Loyal Customers,Mymensingh,5,11,3,900360,4,28
+CUST0217,Lost/Churned,Dhaka,1,3,1,222630,1,193
+CUST0218,Loyal Customers,Rajshahi,5,11,5,2719530,3,53
+CUST0219,At Risk,Dhaka,4,7,5,1661730,2,167
+CUST0220,Potential Loyal,Chattogram,3,6,3,940950,3,49
+CUST0221,Loyal Customers,Sylhet,4,7,2,659280,5,13
+CUST0222,Potential Loyal,Dhaka,2,5,5,1717080,3,83
+CUST0223,At Risk,Chattogram,1,4,3,972930,1,235
+CUST0224,Potential Loyal,Rangpur,2,5,3,1126680,3,71
+CUST0225,Loyal Customers,Dhaka,4,8,3,1077480,5,13
+CUST0226,New Customers,Khulna,2,5,2,842550,4,34
+CUST0227,At Risk,Barishal,4,8,2,730620,2,134
+CUST0228,Champions,Chattogram,5,10,4,1282890,4,38
+CUST0229,At Risk,Rajshahi,3,6,1,207870,2,144
+CUST0232,Champions,Rangpur,5,9,4,1535040,4,43
+CUST0233,Low Engagement,Dhaka,2,5,1,282900,3,82
+CUST0234,At Risk,Khulna,1,4,3,1057800,1,188
+CUST0235,At Risk,Barishal,4,7,1,330870,1,200
+CUST0236,At Risk,Dhaka,1,4,4,1488300,1,262
+CUST0237,New Customers,Rajshahi,2,5,4,1168500,4,29
+CUST0238,At Risk,Dhaka,3,6,1,334560,2,117
+CUST0239,At Risk,Chattogram,2,5,4,1408350,1,267
+CUST0240,Champions,Sylhet,5,10,5,1795800,4,31
+CUST0241,Champions,Dhaka,4,7,4,1194330,5,22
+CUST0242,At Risk,Chattogram,4,7,5,2287800,2,110
+CUST0243,Loyal Customers,Mymensingh,4,7,3,1137750,5,18
+CUST0244,Loyal Customers,Dhaka,4,8,5,2607600,3,95
+CUST0245,Loyal Customers,Rajshahi,4,7,4,1559640,3,91
+CUST0246,At Risk,Dhaka,1,4,4,1205400,1,262
+CUST0247,At Risk,Chattogram,3,6,4,1626060,2,127
+CUST0248,New Customers,Sylhet,2,5,2,831480,5,7
+CUST0249,New Customers,Dhaka,2,5,3,1161120,4,24
+CUST0250,New Customers,Chattogram,2,5,2,571950,4,38
+CUST0251,At Risk,Rangpur,3,6,4,1175880,1,220
+CUST0252,Potential Loyal,Dhaka,3,6,1,418200,4,30
+CUST0253,At Risk,Khulna,4,8,3,1100850,2,170
+CUST0255,At Risk,Chattogram,3,6,4,1537500,2,112
+CUST0256,At Risk,Rajshahi,3,6,3,1057800,2,159
+CUST0257,Low Engagement,Dhaka,2,5,1,161130,3,71
+CUST0258,Potential Loyal,Chattogram,3,6,3,885600,4,44
+CUST0259,Potential Loyal,Rangpur,3,6,3,1039350,5,12
+CUST0260,Potential Loyal,Dhaka,3,6,1,295200,4,29
+CUST0261,At Risk,Khulna,1,2,3,933570,1,419
+CUST0262,Lost/Churned,Mymensingh,1,4,1,119310,2,142
+CUST0263,Lost/Churned,Dhaka,2,5,1,307500,1,364
+CUST0264,At Risk,Rajshahi,5,9,3,870840,2,121
+CUST0265,New Customers,Dhaka,2,5,1,210330,4,37
+CUST0266,Lost/Churned,Chattogram,2,5,2,762600,1,309
+CUST0267,Potential Loyal,Sylhet,1,3,4,1168500,3,72
+CUST0268,At Risk,Dhaka,5,11,5,2028270,1,270
+CUST0269,Loyal Customers,Chattogram,4,8,5,2521500,3,74
+CUST0270,Loyal Customers,Mymensingh,5,10,4,1254600,3,53
+CUST0271,Loyal Customers,Dhaka,5,9,1,453870,4,30
+CUST0272,Champions,Khulna,4,7,5,1867140,4,25
+CUST0273,Lost/Churned,Dhaka,2,5,2,552270,1,326
+CUST0274,Potential Loyal,Chattogram,3,6,5,1894200,4,24
+CUST0276,Champions,Dhaka,5,10,4,1473540,5,6
+CUST0278,New Customers,Rangpur,2,5,1,264450,5,10
+CUST0279,Potential Loyal,Dhaka,3,6,3,907740,3,94
+CUST0280,Loyal Customers,Khulna,5,9,2,762600,5,14
+CUST0281,At Risk,Barishal,4,8,5,2195550,1,401
+CUST0282,Champions,Dhaka,4,7,4,1414500,5,17
+CUST0283,At Risk,Rajshahi,2,5,4,1271820,1,265
+CUST0284,Loyal Customers,Dhaka,4,8,3,1022130,4,37
+CUST0285,At Risk,Chattogram,3,6,2,584250,1,191
+CUST0286,Lost/Churned,Sylhet,1,3,1,270600,1,232
+CUST0287,Champions,Dhaka,4,7,5,1840080,5,12
+CUST0288,At Risk,Khulna,4,8,5,2097150,1,224
+CUST0289,At Risk,Mymensingh,2,5,4,1291500,2,118
+CUST0290,Potential Loyal,Dhaka,3,6,2,789660,3,65
+CUST0291,At Risk,Rajshahi,2,5,3,876990,2,134
+CUST0292,Champions,Dhaka,5,9,4,1244760,5,8
+CUST0293,Champions,Chattogram,4,7,5,1788420,5,4
+CUST0294,At Risk,Sylhet,4,8,4,1232460,2,169
+CUST0295,Champions,Dhaka,5,9,5,1912650,5,14
+CUST0296,At Risk,Chattogram,4,7,2,714630,2,120
+CUST0297,Lost/Churned,Rangpur,1,3,1,166050,1,175
+CUST0298,Champions,Dhaka,5,10,5,2303790,5,21
+CUST0299,Champions,Khulna,5,9,4,1261980,5,7
+CUST0300,Lost/Churned,Dhaka,1,4,1,503070,2,142
