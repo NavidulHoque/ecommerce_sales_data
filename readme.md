@@ -91,7 +91,7 @@ Shows who the customers are and how valuable and active each group is, using **R
 
 The Excel analysis was used to produce a separate business report comparing **2023 and 2024**, with findings, business implications and recommended actions.
 
-**[Detailed Analysis Report](ADD-YOUR-GOOGLE-DRIVE-LINK-HERE)**
+**[Detailed Analysis Report](https://drive.google.com/file/d/1mLgOO0hx5xqCNIbom6uRyen2JRuP2nq3/view?usp=sharing)**
 
 The full workbook, including every PivotTable, formula and chart, is available at:
 
