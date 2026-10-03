@@ -1,4 +1,4 @@
-# Bangladesh E-Commerce Sales & Customer Analytics
+# E-Commerce Sales & Customer Analytics
 
 A business analytics project based on **1,956 sales transactions from 287 customers across all 8 divisions of Bangladesh**, covering **January 2023 to December 2024**. The project looks at where sales are growing, where they are shrinking, and which customers the business is at risk of losing.
 
